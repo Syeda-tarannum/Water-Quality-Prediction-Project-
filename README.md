@@ -51,7 +51,7 @@ Jupyter notebooks for model development and results visualization
 Objective: Analyze and predict GHG emission patterns leveraging machine learning techniques.
 
 
-# Contents:
+Contents:
 
 
 Weekly submissions and reports
