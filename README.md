@@ -1,1 +1,1 @@
-# week-2
+# water quality prediction project
